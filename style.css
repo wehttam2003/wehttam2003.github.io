@@ -1,7 +1,7 @@
 body{
     background-color: rgb(165, 219, 255);
+    background-image: url('background.jpg');
 }
-
 .attribution { 
     font-family: sans-serif;
     font-size: 11px; 
@@ -52,4 +52,8 @@ img{
     display: inline-block;
     font-size: 16px;
     border-radius: 10px;
+}
+
+#charmingmilana{
+    margin-top: 50px;
 }
